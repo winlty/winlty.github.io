@@ -37,7 +37,7 @@
 ### Conference and paper presentation
 1.	The 2nd APAEA PhD/Masters Scholars Conference, 2019.01, Changsha. (Outstanding Paper)
 2.	Belt and Road Forum: the 4th International Energy Finance Conference, 2019.04, Xi’an.
-3.	3.	The 9th Camphor Economist Graduate Special Seminar (Nanjing), 2018.12, Nanjing, China.
+3.	The 9th Camphor Economist Graduate Special Seminar (Nanjing), 2018.12, Nanjing, China.
 
 ### Research Interests
 Technological innovation, Globalization, Financialization
