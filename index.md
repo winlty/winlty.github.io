@@ -10,9 +10,9 @@
 
 ## 学习经历
 
-2016.03 -       西安交通大学经济与金融学院  产业经济学     博士研究生
-2014.09-2016.02 西安交通大学经济与金融学院  产业经济学     硕士研究生
-2010.09-2014.06 西安交通大学数学与统计学院  数学与应用数学 本科
+- 2016.03 -       西安交通大学经济与金融学院  产业经济学     博士研究生
+- 2014.09-2016.02 西安交通大学经济与金融学院  产业经济学     硕士研究生
+- 2010.09-2014.06 西安交通大学数学与统计学院  数学与应用数学 本科
 
 ## 科研成果
 - Gen-Fu Feng, Mingbo Zheng, Jun Wen, Chun-Ping Chang and Yin E Chen. 2019. The assessment of globalization on innovation in Chinese manufacturing firms. Structural Change and Economic Dynamics, 50, 190-202.
