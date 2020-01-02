@@ -1,16 +1,16 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/winlty/winlty.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-#个人信息
+
+###个人信息
+
 学校：西安交通大学经济与金融学院
 地址：陕西省西安市雁塔区雁塔西路74号,710061
 手机：+86-18706704185
 邮箱：mingbo1992@126.com
 
-#学习经历
+###学习经历
+
 2016.03 -       西安交通大学经济与金融学院  产业经济学     博士研究生
 2014.09-2016.02 西安交通大学经济与金融学院  产业经济学     硕士研究生
 2010.09-2014.06 西安交通大学数学与统计学院  数学与应用数学 本科
@@ -57,15 +57,3 @@ Matlab、Stata、R
 2017年、2019年获得优秀研究生称号
 2018年获得研究生一等奖学金
 
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/winlty/winlty.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
