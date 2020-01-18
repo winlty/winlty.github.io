@@ -1,6 +1,8 @@
 
 # Mingbo Zheng (CURRICULUM VITAE)
 
+Last updated: January 18, 2020
+
 ### Personal information
 - School：School of Economics and Finance, Xi’an Jiaotong University
 - Address：No. 74, Yanta West Road, Yanta District, Xi’an, Shaanxi, P.R. China 710061
