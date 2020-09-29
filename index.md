@@ -29,7 +29,8 @@ Last updated: September 29, 2020
 - Yu Liu, Meifang Zhou and Mingbo Zheng. 2016. An analysis of cotton target price reform from the perspective of fiscal cost: Estimation based on CGE model. Chinese Rural Economy, 10, 70-81. (in Chinese)
 - Mingbo Zheng. 2019. Managerial foreign experience, professional background and firm innovation, 10, 137-144+153. (in Chinese)
 - Mingbo Zheng. 2019. Influence of Economic Fluctuation on Corporate R&D Input: Evidences from China’s Listed Enterprises, 5, 104-117. (in Chinese)
-* represents corresponding author.
+
+\* represents corresponding author.
 
 ### Working Papers
 1.	Housing Price, Labor Wage, and Industrial Transfer in China: Obstacle or Accelerator? 
